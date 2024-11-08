@@ -43,7 +43,7 @@ The final answer: 10
 
 💻 Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/<your-username>/StringMatchCalc.git
+   git clone https://github.com/harish2326/StringMatchCalc.git
 2. Navigate to the project directory:
    cd StringMatchCalc
 3. Run The Script 
